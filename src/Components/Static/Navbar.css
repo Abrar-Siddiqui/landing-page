@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.header{
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    background-color: azure;
+    align-items: center;
+    height: 5vh;
+    padding: 20px 40px;
+}
+.nav{
+    /* align-items: center; */
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+}
+.nav li{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+}

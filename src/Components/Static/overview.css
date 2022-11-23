@@ -1,0 +1,35 @@
+*{
+    padding: 0%;margin: 0%; box-sizing: border-box;
+}
+.overview{
+    background-color: #093c48;
+}
+h3{
+    text-align: center;
+    padding: 15px 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgoldenrod;
+}
+hr{
+    border: 1px solid rgb(245, 242, 242);
+}
+.para{
+    padding: 9px 20px;
+}
+.para h2{
+    color: rgb(255, 251, 251);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.para p{
+    text-align: justify;
+    align-items: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 16px;
+}
+/* --------------------------------Images Styles------------------------------- */
+.overimg img{
+    width: 100%;
+    border-radius: 12px;
+}
